@@ -15,6 +15,7 @@ downloads/
 eggs/
 .eggs/
 lib/
+flask/
 lib64/
 parts/
 sdist/
